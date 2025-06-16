@@ -1,0 +1,1 @@
+This project is used for HTML practice through odinproject.com, I will try to demonstrate my skills in HTML
